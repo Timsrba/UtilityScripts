@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 REMOTE=$1
 PATH_TO_LOCAL=$2
